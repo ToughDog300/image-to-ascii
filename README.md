@@ -14,3 +14,6 @@ requires
 
 ENJOY!!! 
 
+<img width="339" height="342" alt="DOG" src="https://github.com/user-attachments/assets/675c866b-a4a7-4a47-ab5f-1fcdb58a917a" />
+
+<img width="809" height="615" alt="image" src="https://github.com/user-attachments/assets/05002eee-af6f-4574-aa2e-f25510a57358" />
